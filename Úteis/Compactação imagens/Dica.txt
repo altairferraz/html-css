@@ -1,0 +1,12 @@
+1500px tamanho ideial para site.
+50px resolução
+
+- Gimp
+
+Imagem/Redimensionar imagem
+Alterar pixel
+Clicar em redimensionar 
+Arquivo/Exportar como...
+Clicar em Exportar
+Qualidade 70/ desmarcar XMP e IPTC
+Clicar em Exportar

@@ -1,0 +1,48 @@
+- Biblioteca de emoji
+
+https://emojipedia.org/
+
+
+
+- Biblioteca de imagens sem direitos autorais
+
+https://unsplash.com/
+https://www.pexels.com/pt-br/
+https://br.freepik.com/
+
+
+
+- Biblioteca de ícones
+
+https://iconarchive.com/
+https://favicon.io/
+
+
+
+- Media Types de arquivos
+
+https://www.iana.org/assignments/media-types/media-types.xhtml
+
+
+
+- Paleta de cores
+
+https://color.adobe.com/pt/
+https://paletton.com/
+https://coolors.co/
+Extensão: ColorZilla (descobrir cor)
+
+
+
+- Fontes
+
+https://fonts.google.com/
+Extensão: Fonts Ninja (descobrir fonte)
+- Encontrar fonte em uma imagem
+https://www.whatfontis.com/
+https://www.myfonts.com/pages/whatthefont
+
+
+- Criar Layouts
+
+https://www.mockflow.com/
